@@ -1,0 +1,119 @@
+/* ↓ ↓ ↓ Loading的css ↓ ↓ ↓*/
+#loading{
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	text-align: center;
+	background: #efeeee;
+	width: 100%;
+	height: 100%;
+	z-index: 99999;	
+}
+.dengdai{
+	top: 45%;
+	width: 120px;
+	height: 120px;
+	border-radius:50%;
+	overflow:hidden;
+}
+.yuan{
+	width: 100%;
+	height: 42.333%;
+}
+/*↑ ↑ ↑ Loading的css ↑ ↑ ↑*/
+
+
+
+/*↓↓↓↓背景的CSS↓↓↓↓*/
+
+@charset "utf-8";
+.u-login-reg {height: 80%;width: 100%;}
+.u-login-reg .particles-js-canvas-el {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+
+/*↑↑↑↑背景的CSS↑↑↑↑*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+a{text-decoration:none} /*超链接除去*/ 
+
+.showtime/*时间标签的样式*/
+	p{
+	width: 1000px;
+	height: 120px;
+	text-align: center;
+	font-size: 3em;
+	color: #999999;
+	line-height: 100px;
+}
+
+/*↓↓↓超链接主页样式↓↓↓*/
+body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #efeeee;
+}
+
+@media (max-width:1200px){
+	.container{max-width: 80%}
+}
+
+.container{
+	z-index: 9999;/*最顶层位置*/
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.container .box{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 100px;
+    height: 140px;
+    margin: 20px;
+}
+
+.container .box .img{
+    width: 100px;
+    height: 100px;
+    box-shadow: 18px 18px 30px rgba(0, 0, 0, 0.1),
+    -18px -18px 30px rgba(255, 255, 255, 1);
+    border-radius: 20px; /*圆角角度*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efeeee;
+    transition: box-shadow .2s ease-out;
+    position: relative;
+    cursor:pointer;
+}
+
+.container .box .img  img{
+    width: 60px;/*图标大小*/
+    transition: width 0.5s ease-out;
+}
+.container .box p{
+    color: slategrey;
+}
+.container .box .img:hover{
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2),
+    0px 0px 0px rgba(255, 255, 255, 0.8),
+    inset 18px 18px 30px rgba(0, 0, 0, 0.1),
+    inset -18px -18px 30px rgba(255, 255, 255, 1);
+    transition: box-shadow .2s ease-out;
+}
+.container .box .img:hover img{
+    width: 58px;
+    transition: width 0.2s ease-out;
+}
