@@ -1474,7 +1474,7 @@ window.particlesJS = function(tag_id, params){
 
   /* 画布大小 */
   canvas_el.style.width = "100%";
-  canvas_el.style.height = "1130px";
+  canvas_el.style.height = "1300px";
 
   /* append canvas */
   var canvas = document.getElementById(tag_id).appendChild(canvas_el);
