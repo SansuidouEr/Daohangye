@@ -1,0 +1,19 @@
+<html>
+<head>
+<script language="JavaScript">
+<!--
+var password="";
+password=prompt('此链接需要密码才能访问，请输入密码：','');
+if (password != '15166473216rjl')   
+{alert("密码错误，请联系三岁豆Er索要密码");
+window.opener=null; window.close();}  // 密码不正确就关闭
+//-->
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="refresh" content="0.1;url=https://www.wolai.com/sansui/qd6S6wSuz7kMfJRmJnjRG7">
+
+</head>
+<body>
+</boody>
+</html>
