@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3abbd9;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #be6ffd;
+      }
+
+      .cls-3 {
+        fill: #a1d04d;
+      }
+
+      .cls-4 {
+        fill: #f28237;
+      }
+    </style>
+  </defs>
+  <path id="形状_1" data-name="形状 1" class="cls-1" d="M167,209L500,18l171,95L332.521,305"/>
+  <path id="形状_2" data-name="形状 2" class="cls-2" d="M670,112l163,97V406L670,500V305L500,209Z"/>
+  <path id="形状_4" data-name="形状 4" class="cls-3" d="M167,595L332.521,695,502,598,332.521,500Z"/>
+  <path id="形状_3" data-name="形状 3" class="cls-4" d="M332,695l168,95L832.521,595V405Z"/>
+  <path id="形状_5" data-name="形状 5" class="cls-2" d="M333,694l-0.479,194L167,987V594Z"/>
+</svg>

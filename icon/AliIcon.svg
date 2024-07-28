@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 177px;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="899.75" y1="100.25" x2="100.25" y2="899.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2155ff"/>
+      <stop offset="1" stop-color="#de00ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="518.281" y1="528.751" x2="351.375" y2="589.499" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d930e9"/>
+      <stop offset="1" stop-color="#ff3c9f"/>
+    </linearGradient>
+  </defs>
+  <circle id="椭圆_3" data-name="椭圆 3" class="cls-1" cx="500" cy="500" r="399.75"/>
+  <circle id="椭圆_4" data-name="椭圆 4" class="cls-2" cx="434.828" cy="559.125" r="83.453"/>
+</svg>

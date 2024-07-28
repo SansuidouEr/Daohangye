@@ -1,0 +1,47 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #70c000;
+      }
+
+      .cls-2 {
+        fill: #e6ffc3;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #f0ffd1;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-1" cx="500" cy="500" r="477"/>
+  <circle id="椭圆_1_拷贝" data-name="椭圆 1 拷贝" class="cls-2" cx="500" cy="500" r="419.281"/>
+  <circle id="椭圆_2_拷贝_4" data-name="椭圆 2 拷贝 4" class="cls-1" cx="411.547" cy="706.39" r="166.922"/>
+  <circle id="椭圆_2_拷贝_5" data-name="椭圆 2 拷贝 5" class="cls-1" cx="291.531" cy="583.39" r="166.906"/>
+  <circle id="椭圆_2_拷贝_6" data-name="椭圆 2 拷贝 6" class="cls-1" cx="293.61" cy="411.547" r="166.922"/>
+  <circle id="椭圆_2_拷贝_7" data-name="椭圆 2 拷贝 7" class="cls-1" cx="416.64" cy="291.531" r="166.922"/>
+  <circle id="椭圆_2_拷贝_8" data-name="椭圆 2 拷贝 8" class="cls-1" cx="588.453" cy="293.61" r="166.922"/>
+  <circle id="椭圆_2_拷贝_9" data-name="椭圆 2 拷贝 9" class="cls-1" cx="708.5" cy="416.64" r="166.906"/>
+  <circle id="椭圆_2_拷贝_10" data-name="椭圆 2 拷贝 10" class="cls-1" cx="706.39" cy="588.453" r="166.921"/>
+  <circle id="椭圆_2_拷贝_11" data-name="椭圆 2 拷贝 11" class="cls-1" cx="583.39" cy="708.5" r="166.922"/>
+  <rect id="矩形_1" data-name="矩形 1" class="cls-3" x="93.5" y="471.5" width="813" height="57"/>
+  <path id="矩形_1_拷贝" data-name="矩形 1 拷贝" class="cls-4" d="M528.5,93V906h-57V93h57Z"/>
+  <path id="矩形_1_拷贝_2" data-name="矩形 1 拷贝 2" class="cls-4" d="M791.682,234.481l-557.2,557.2-26.163-26.163,557.2-557.2Z"/>
+  <path id="矩形_1_拷贝_3" data-name="矩形 1 拷贝 3" class="cls-4" d="M765.519,791.682l-557.2-557.2,26.163-26.163,557.2,557.2Z"/>
+  <circle id="椭圆_2" data-name="椭圆 2" class="cls-3" cx="214.625" cy="426.531" r="17.5"/>
+  <circle id="椭圆_2_拷贝" data-name="椭圆 2 拷贝" class="cls-3" cx="275.64" cy="609.531" r="14.234"/>
+  <circle id="椭圆_2_拷贝_2" data-name="椭圆 2 拷贝 2" class="cls-3" cx="336.64" cy="755.531" r="14.234"/>
+  <circle id="椭圆_2_拷贝_3" data-name="椭圆 2 拷贝 3" class="cls-3" cx="430.64" cy="692.531" r="14.234"/>
+  <circle id="椭圆_2_拷贝_12" data-name="椭圆 2 拷贝 12" class="cls-3" cx="639.64" cy="755.531" r="14.235"/>
+  <circle id="椭圆_2_拷贝_13" data-name="椭圆 2 拷贝 13" class="cls-3" cx="694.64" cy="574.531" r="14.235"/>
+  <circle id="椭圆_2_拷贝_14" data-name="椭圆 2 拷贝 14" class="cls-3" cx="791.64" cy="609.531" r="14.235"/>
+  <circle id="椭圆_2_拷贝_15" data-name="椭圆 2 拷贝 15" class="cls-3" cx="791.64" cy="340.531" r="14.235"/>
+  <circle id="椭圆_2_拷贝_16" data-name="椭圆 2 拷贝 16" class="cls-3" cx="667.64" cy="429.531" r="14.235"/>
+  <circle id="椭圆_2_拷贝_17" data-name="椭圆 2 拷贝 17" class="cls-3" cx="611.64" cy="244.531" r="14.235"/>
+  <circle id="椭圆_2_拷贝_18" data-name="椭圆 2 拷贝 18" class="cls-3" cx="397.64" cy="277.531" r="14.234"/>
+  <circle id="椭圆_2_拷贝_19" data-name="椭圆 2 拷贝 19" class="cls-3" cx="425.64" cy="181.531" r="14.234"/>
+</svg>

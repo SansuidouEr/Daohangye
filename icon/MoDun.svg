@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7396f5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="_0" data-name="0" class="cls-1" width="1000" height="1000" rx="225" ry="225"/>
+  <path id="_1" data-name="1" class="cls-2" d="M138,838V186H261L452,380l-60,57L233,281V838H138Z"/>
+  <path id="_2" data-name="2" class="cls-2" d="M875,838V186H761L307,628,508,838,722,628l-94-95-70,70,28,29-78,78-78-78L780,288V838h95Z"/>
+</svg>

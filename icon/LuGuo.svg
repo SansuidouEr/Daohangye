@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fe771d;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fe771d;
+        stroke-width: 70px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="_1" data-name="1" class="cls-1" cx="296" cy="348" r="63"/>
+  <path id="_1-2" data-name="1" class="cls-2" d="M98,822C239.13,609.445,380.01,650.583,452,663c6.022-68.543,145.346-357.181,452-332"/>
+  <path id="_1-3" data-name="1" class="cls-2" d="M218.678,94.678H781.322a124,124,0,0,1,124,124V781.322a124,124,0,0,1-124,124H218.678a124,124,0,0,1-124-124V218.678A124,124,0,0,1,218.678,94.678Z"/>
+</svg>

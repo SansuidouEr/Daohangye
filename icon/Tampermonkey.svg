@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="_0" data-name="0" class="cls-1" x="5.531" y="5.531" width="988.938" height="988.938" rx="225" ry="225"/>
+  <circle id="_1" data-name="1" class="cls-2" cx="271.156" cy="727.406" r="196.5"/>
+  <circle id="_2" data-name="2" class="cls-2" cx="728.5" cy="727.5" r="196.5"/>
+</svg>

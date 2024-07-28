@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1296db;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_1" data-name="矩形 1" class="cls-1" width="1000" height="1000" rx="225" ry="225"/>
+  <path id="椭圆_1" data-name="椭圆 1" class="cls-2" d="M303.426,194.161a93.678,93.678,0,1,1-93.678,93.677A93.677,93.677,0,0,1,303.426,194.161Z"/>
+  <path id="形状_1" data-name="形状 1" class="cls-2" d="M145.877,815.839L423.5,421.542,600.639,698.316l99.639-120.077,155.845,237.6H145.877Z"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: 1px;
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.406" y1="999.594" x2="999.594" y2="0.406" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff6900"/>
+      <stop offset="1" stop-color="#d8ff00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="671" y1="331" x2="329" y2="673" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9df00"/>
+      <stop offset="1" stop-color="#fd9101"/>
+    </linearGradient>
+  </defs>
+  <rect id="_1" data-name="1" class="cls-1" x="0.406" y="0.406" width="999.188" height="999.188" rx="225" ry="225"/>
+  <path id="_1-2" data-name="1" class="cls-2" d="M225.112,255.309H774.888a69.645,69.645,0,0,1,69.628,69.661V675.03a69.644,69.644,0,0,1-69.628,69.66H225.112a69.644,69.644,0,0,1-69.628-69.66V324.97A69.645,69.645,0,0,1,225.112,255.309Z"/>
+  <rect id="_1-3" data-name="1" class="cls-3" x="226" y="331" width="548" height="342"/>
+  <path id="_1-4" data-name="1" class="cls-2" d="M218.673,377.832L500,559.594l281.327-181.87L780,325l-43.7-1.6L500,477.442,267.571,323.4,220,323Z"/>
+</svg>
